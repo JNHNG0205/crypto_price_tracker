@@ -3,7 +3,7 @@ import axios from "axios";
 export const fetchCryptoPrices = async () => {
   const cryptoSymbols = ["bitcoin", "ethereum", "solana"];
 
-  const BASE_URL = "https://api.coingecko.com/api/v3";
+  const BASE_URL = "https://api.coingecko.com/api";
 
   const API_KEY = process.env.COINGECKO_API_KEY;
 
