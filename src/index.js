@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 
 import cron from "node-cron";
 
-import { updateCryptoPrices } from "./services/notionService.js";
+import { updateCryptoPrices } from "./api/notionService.js";
 
 dotenv.config();
 
