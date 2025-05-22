@@ -2,7 +2,7 @@
 
 This project is a cryptocurrency price tracker, built to display real-time prices directly in **Notion** using the **CoinGecko API**.
 
-## Features
+## Featur
 
 - Fetches real-time cryptocurrency prices.
 - Integrates seamlessly with Notion for data display.
